@@ -11,7 +11,7 @@
 
 **Everyone is Invited to Subscribe My YouTube Channel**
 <a href="https://www.youtube.com/@teenchapri?sub_confirmation=1">
-[![youtube](https://img.shields.io/badge/-Antinna-313131?style=flat-square&labelColor=313131&logo=youtube&logoColor=red&color=313131)](https://www.youtube.com/@teenchapri)
+[![youtube](https://img.shields.io/badge/-TeenChapri-313131?style=flat-square&labelColor=313131&logo=youtube&logoColor=red&color=313131)](https://www.youtube.com/@teenchapri)
   </a> 
 <br />
   ### Languages and Tools:
@@ -57,7 +57,8 @@
 <div style="display: inline_block"><br>
 
 </div>
-  ##
+  <br>
+  ### Sponsor Via UPI
  
 <div> 
   <a href="https://www.youtube.com/@teenchapri" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
