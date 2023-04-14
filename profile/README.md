@@ -50,9 +50,13 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://secure.gravatar.com/avatar/9bcbba71d1146d0432f3926d37b8e187?s=100&r=pg&d=mm">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/organizations/TeenChapri/settings/profile">
 </div>
-  
+ <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/organizations/TeenChapri/settings/profile">
+  </div>
+<div style="display: inline_block"><br>
+
+</div>
   ##
  
 <div> 
