@@ -87,7 +87,7 @@
    
   
 <h1> SPONSOR WITH UPI ID </h1>
-<input type="text"  value="8053664058@paytm" />
+<h2 > 8053664058@paytm </h2>
 
  
 <!--END_SECTION:activity-->
