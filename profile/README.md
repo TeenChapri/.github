@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 
 
@@ -51,25 +51,29 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/130128600?s=400&u=ed1cada562f652cc34f1e2ce603bd73b667de1cb&v=4">
-  <br />
-### Sponsor Via UPI
+ 
+ <br>
 </div>
- <img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/TeenChapri/.github/blob/main/images/upiqr.jpeg?raw=true">
-  </div>
-<div style="display: inline_block"><br>
 
-</div>
-  <br>
+  </div>
+
 
  
 <div> 
   <a href="https://www.youtube.com/@teenchapri" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
- <a href="https://www.facebook.com/profile.php?id=100082961891641"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a>
+ <a href="https://www.facebook.com/Teen-Chapri-111276641932201"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a>
 
   </div>
   <br>
+### SPONSOR WITH UPI QR
+
+<div style="display: inline_block"><br>
+   <img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/TeenChapri/.github/blob/main/images/upiqr.jpeg?raw=true">
+
+</div>
  
+   <br />
 
  
 <!--END_SECTION:activity-->
