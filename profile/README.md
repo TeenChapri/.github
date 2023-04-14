@@ -50,15 +50,15 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/TeenChapri/.github/blob/main/images/upiqr.jpeg?raw=true">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/130128600?s=400&u=ed1cada562f652cc34f1e2ce603bd73b667de1cb&v=4">
 </div>
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/TeenChapri/.github/blob/main/images/upiqr.jpeg?raw=true">
+ <img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/TeenChapri/.github/blob/main/images/upiqr.jpeg?raw=true">
   </div>
 <div style="display: inline_block"><br>
 
 </div>
   <br>
-  ### Sponsor Via UPI
+### Sponsor Via UPI
  
 <div> 
   <a href="https://www.youtube.com/@teenchapri" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
