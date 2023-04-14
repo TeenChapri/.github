@@ -57,17 +57,18 @@
 
   </div>
 
-
+<br />
  
 <div> 
   <a href="https://www.youtube.com/@teenchapri" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <br />
 
  <a href="https://www.facebook.com/Teen-Chapri-111276641932201"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a>
 
   </div>
   <br>
   <br />
-### SPONSOR WITH UPI QR
+<h1> SPONSOR WITH UPI QR </h1>
 
 <div style="display: inline_block"><br> <br />
    <img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/TeenChapri/.github/blob/main/images/upiqr.jpeg?raw=true">
