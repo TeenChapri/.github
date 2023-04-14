@@ -74,6 +74,12 @@
    <img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/TeenChapri/.github/blob/main/images/upiqr.jpeg?raw=true">
 
 </div>
+<div style="display: inline_block"><br> <br />
+   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/TeenChapri/.github/blob/main/images/upimanish.jpg?raw=true">
+
+</div>
+
+
  
    <br />
 
